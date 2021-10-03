@@ -1,0 +1,52 @@
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: /
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: \
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: /
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: \
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: /
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: \
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: /
+# aug/22/2021 11:23: 5 by RouterOS 6.48.3
+# software id = 
+#
+  progress: \
+# aug/22/2021 11:23:15 by RouterOS 6.48.3
+# software id = 
+#
+  progress: -
+# aug/22/2021 11:23:15 by RouterOS 6.48.3
+# software id = 
+#
+  progress: |
+# aug/22/2021 11:23:15 by RouterOS 6.48.3
+# software id = 
+#
+  progress: -
+# aug/22/2021 11:23:15 by RouterOS 6.48.3
+# software id = 
+#
+  progress: |
+# aug/22/2021 11:23:22 by RouterOS 6.48.3
+# software id = 
+#
+  progress: \
